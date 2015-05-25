@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 20:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 20:56
 entering extended mode
 **1.tex
 (F:\summer\1\1.tex
@@ -166,7 +166,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-No file 1.aux.
+(F:\summer\1\1.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -179,6 +179,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -236,8 +237,8 @@ Package pdftex.def Info: dev.jpg used on input line 12.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/summer/1/dev.jpg>] (F:
 \summer\1\1.aux) ) 
 Here is how much of TeX's memory you used:
- 2510 strings out of 493921
- 31909 string characters out of 3147273
+ 2512 strings out of 493921
+ 31943 string characters out of 3147273
  90076 words of memory out of 3000000
  5808 multiletter control sequences out of 15000+200000
  4721 words of font info for 18 fonts, out of 3000000 for 9000
@@ -247,7 +248,7 @@ Here is how much of TeX's memory you used:
 mbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 1.pdf (1 page, 93828 bytes).
+Output written on 1.pdf (1 page, 96812 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
