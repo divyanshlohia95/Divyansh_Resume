@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 21:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  25 MAY 2015 21:07
 entering extended mode
 **1.tex
 (F:\summer\1\1.tex
@@ -242,8 +242,8 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (1.7593pt too wide) in paragraph at lines 37--46
-[][]  
+Overfull \hbox (1.7593pt too wide) in paragraph at lines 37--47
+[][] 
  []
 
 [1
@@ -262,7 +262,7 @@ Here is how much of TeX's memory you used:
 m/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 1.pdf (1 page, 101843 bytes).
+Output written on 1.pdf (1 page, 103996 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
